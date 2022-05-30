@@ -46,7 +46,7 @@ $sidebar-hover-width : 240px;
 
     @include flex(1 100%);
     @include order(0);
-    max-width:$sidebar-width;
+    max-width:$sidebar-hover-width;
     overflow: auto;
     overflow-x: hidden;
 
